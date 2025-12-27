@@ -1,0 +1,12 @@
+npm create vite@latest frontend -- --template react
+cd frontend
+npm install
+npm run dev
+
+Instalar rotas
+npm install react-router-dom
+
+usado no App.jsx
+
+Use rolldown-vite (Experimental)?: │ ○ Yes │ ● No
+Install with npm and start now? │ ● Yes / ○ No  (Executa automaticamente: npm install e npm run dev)
