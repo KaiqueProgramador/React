@@ -10,3 +10,15 @@ usado no App.jsx
 
 Use rolldown-vite (Experimental)?: │ ○ Yes │ ● No
 Install with npm and start now? │ ● Yes / ○ No  (Executa automaticamente: npm install e npm run dev)
+
+components/ → pedaços reutilizáveis
+
+pages/ → telas
+
+services/ → API
+
+contexts/ → lógica reutilizável
+
+App.jsx → rotas
+
+main.jsx → start da aplicação
